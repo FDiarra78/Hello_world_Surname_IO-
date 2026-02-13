@@ -11,7 +11,7 @@
 ## Пример кода на Python:
 ```
 # Создаем переменные
-name = "Fatoumata"
+name = "diarra"
 a = 10
 b = 5
 c = 3
